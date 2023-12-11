@@ -19,4 +19,4 @@ This project was an exploration of responsive design. Implementing and utilizing
 [Webpage Screenshot at max-width] ()
 
 **GITHUB LINK**
-[Github] (https://github.com/jawrj/se_project_aroundtheus.git)
+[Github](https://github.com/jawrj/se_project_aroundtheus.git)
