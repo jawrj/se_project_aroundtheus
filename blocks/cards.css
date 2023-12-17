@@ -10,3 +10,13 @@
   padding: 0;
   margin: 0 0 67px;
 }
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .cards {
+    justify-content: center;
+  }
+
+  .cards__list {
+    margin: 0;
+  }
+}

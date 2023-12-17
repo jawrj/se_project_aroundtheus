@@ -21,9 +21,9 @@
 }
 
 .card__title {
+  max-width: 219px;
   font-size: 24px;
   line-height: 1.2;
-  font-weight: 900;
   text-overflow: ellipsis;
   white-space: nowrap;
   overflow: hidden;
@@ -40,4 +40,5 @@
 .card__like-button:hover {
   opacity: 60%;
   cursor: pointer;
+  transition: opacity 0.5s linear 0s;
 }
