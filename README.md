@@ -14,7 +14,7 @@ This project was an exploration of responsive design. Implementing and utilizing
 
 - [Github](https://github.com/jawrj/se_project_aroundtheus.git)
 
--[Deployed Github] (https://jawrj.github.io/se_project_aroundtheus/)
+- [DeployedGithub] (https://jawrj.github.io/se_project_aroundtheus/)
 
 **Images**
 
