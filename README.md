@@ -6,7 +6,9 @@ This project was an exploration of responsive design. Implementing and utilizing
 
 - HTML
 - CSS
-- Optimized site for various screen width
+- BEM methodology
+- Web fonts
+- Optimized webppage for various screen width
 - Responsive design utilizing grids and flexbox
 - Utilizing Figma design as reference
 
@@ -16,6 +18,6 @@ This project was an exploration of responsive design. Implementing and utilizing
 
 - [Deployed Github](https://jawrj.github.io/se_project_aroundtheus)
 
-**Images**
+**Video Review**
 
-Video Review and images to be added once code review is passed.
+[Video Review](https://drive.google.com/file/d/1pNtHR6PrBOZCtz22ScadhJqws-4EH4VT/view?usp=drive_link)
